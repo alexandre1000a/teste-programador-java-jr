@@ -85,3 +85,8 @@ Entre os critérios de avaliação estão:
 * Arquitetura
 * Boas práticas de desenvolvimento
 * Design Patterns
+
+### DICA
+
+* Utilize testes automatizados para inserir os dados
+* Utilize alguma ferramenta(eq. Postman) para realizar as chamadas via get/post para inserir e exibir os dados
