@@ -1,4 +1,4 @@
-# Desafio de Programador Java Jr.
+# Desafio de Programação Java Jr.
 
 # O que preciso fazer?
 
